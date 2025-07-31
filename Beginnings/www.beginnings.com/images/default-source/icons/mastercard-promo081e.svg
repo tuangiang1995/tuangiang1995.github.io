@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" viewBox="0 0 169.89 113.38">
+  <defs>
+    <style>
+      .st0 {
+        stroke: #290f87;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: #424248;
+        stroke-miterlimit: 10;
+        stroke-width: 6.71px;
+      }
+
+      .st2 {
+        fill: #f8a83a;
+      }
+    </style>
+  </defs>
+  <circle class="st2" cx="44.11" cy="40.39" r="10.11" />
+  <ellipse class="st2" cx="62.17" cy="37.36" rx="12.51" ry="11.37" />
+  <path class="st1" d="M-1137.83,77.43" />
+  <g>
+    <rect class="st0" x="3" y="3" width="163.89" height="107.38" rx="8.48" ry="8.48" />
+    <line class="st0" x1="25.61" y1="82.12" x2="36.91" y2="82.12" />
+    <line class="st0" x1="59.51" y1="82.12" x2="70.82" y2="82.12" />
+    <line class="st0" x1="93.42" y1="82.12" x2="104.73" y2="82.12" />
+    <line class="st0" x1="127.33" y1="82.12" x2="138.63" y2="82.12" />
+    <path class="st0" d="M62.34,25.61c-3.2,0-6.11,1.1-8.48,2.89-2.37-1.79-5.28-2.89-8.48-2.89-7.8,0-14.13,6.33-14.13,14.13s6.33,14.13,14.13,14.13c3.2,0,6.11-1.1,8.48-2.89,2.37,1.79,5.28,2.89,8.48,2.89,7.8,0,14.13-6.33,14.13-14.13s-6.33-14.13-14.13-14.13Z" />
+  </g>
+  <metadata></metadata>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" viewBox="0 0 218.52 142.09">
+  <defs>
+    <style>
+      .st0 {
+        stroke: #290f87;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: #424248;
+        stroke-miterlimit: 10;
+        stroke-width: 6.71px;
+      }
+
+      .st2 {
+        fill: #00f5ff;
+      }
+    </style>
+  </defs>
+  <polygon class="st2" points="87.13 55.67 89.78 114.41 120.47 113.65 114.41 73.36 114.28 58.83 97.86 57.82 87.13 55.67" />
+  <path class="st1" d="M-507.82,72.5" />
+  <g>
+    <line class="st0" x1="157.37" y1="114.2" x2="62.62" y2="114.2" />
+    <path class="st0" d="M153.03,38.46v31.17h30.21l20.2,10.45c2.88,1.49,4.68,4.45,4.68,7.69v26.44h-18.17" />
+    <polyline class="st0" points="30.04 114.2 13.04 114.2 13.04 38.46" />
+    <line class="st0" x1="170.92" y1="38.46" x2="183.23" y2="69.63" />
+    <circle class="st0" cx="173.66" cy="121.32" r="17.78" transform="translate(15.69 262.45) rotate(-76.72)" />
+    <circle class="st0" cx="46.33" cy="121.32" r="17.78" transform="translate(-72.21 68.29) rotate(-45)" />
+    <circle class="st0" cx="46.33" cy="121.32" r="8.88" transform="translate(-72.21 68.29) rotate(-45)" />
+    <circle class="st0" cx="173.66" cy="121.32" r="8.88" transform="translate(15.69 262.45) rotate(-76.72)" />
+    <line class="st0" x1="157.22" y1="128.07" x2="62.77" y2="128.07" />
+    <path class="st0" d="M30.04,114.2H11.06c-1.88,0-3.41,1.53-3.41,3.41v7.06c0,1.88,1.53,3.41,3.41,3.41h18.82" />
+    <path class="st0" d="M190.09,128.07h22.02c1.88,0,3.41-1.53,3.41-3.41v-7.06c0-1.88-1.53-3.41-3.41-3.41h-22.17" />
+    <path class="st0" d="M141.81,113.41V38.46h29.52c8.52,0,14.3-8.68,11.02-16.54l-4.83-11.57c-1.86-4.45-6.2-7.34-11.02-7.34h-47.48c-2.07,0-4.05.86-5.46,2.38l-10.55,11.39H7c-2.21,0-4,1.79-4,4v13.68c0,2.21,1.79,4,4,4h5.74" />
+    <polyline class="st0" points="85.66 114.2 85.66 54.04 119.03 54.04 119.03 114.2" />
+    <rect class="st0" x="21.71" y="54.04" width="46.34" height="20.83" />
+    <rect class="st0" x="18.85" y="5.61" width="37.83" height="11.17" />
+  </g>
+  <metadata></metadata>
+</svg>

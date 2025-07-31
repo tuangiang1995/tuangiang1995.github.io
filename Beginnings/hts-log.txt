@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 31 Jul 2025 08:53:32 at https://www.beginnings.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.beginnings.com/ -O1 "D:\GitHub\tuangiang1995.github.io\Beginnings" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:54:09	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.beginnings.com/)
+09:00:10	Error: 	"Not Found" (404) at link https://www.beginnings.com/ResourcePackages/Custom/assets/fonts/Assistant.woff2 (from https://www.beginnings.com/ResourcePackages/Custom/assets/css/main.css?v=07012025)
+09:01:39	Warning: 	Found for https://www.beginnings.com/about-us/news-events/'https://www.beginnings.com/images/default-source/events/event-images---cfcu-branded/cfcu-sidewalk-showcased7e60f61-5bf1-4a1a-854a-8b16a86889fd.jpg?sfvrsn=e8b6081_3'
+09:01:39	Warning: 	File has moved from https://www.beginnings.com/about-us/news-events/'https://www.beginnings.com/images/default-source/events/event-images---cfcu-branded/cfcu-sidewalk-showcased7e60f61-5bf1-4a1a-854a-8b16a86889fd.jpg?sfvrsn=e8b6081_3' to /error/?aspxerrorpath=/about-us/news-events/'https:/www.beginnings.com/images/default-source/events/event-images---cfcu-branded/cfcu-sidewalk-showcased7e60f61-5bf1-4a1a-854a-8b16a86889fd.jpg
+09:01:41	Error: 	"Bad Request" (400) at link https://www.beginnings.com/personal/home-loans/home-equity-loans#HELOC (from https://www.beginnings.com/sitemap)
+09:01:41	Error: 	"Not Found" (404) at link https://www.beginnings.com/modules/images/markers/branches.png (from https://www.beginnings.com/ResourcePackages/Custom/assets/css/main-inside.css?v=07012025)
+09:01:41	Error: 	"Not Found" (404) at link https://www.beginnings.com/modules/images/markers/shared-branches.png (from https://www.beginnings.com/ResourcePackages/Custom/assets/css/main-inside.css?v=07012025)
+09:01:41	Error: 	"Not Found" (404) at link https://www.beginnings.com/modules/images/markers/atms.png (from https://www.beginnings.com/ResourcePackages/Custom/assets/css/main-inside.css?v=07012025)
+09:01:41	Error: 	"Not Found" (404) at link https://www.beginnings.com/modules/images/markers/shared-atms.png (from https://www.beginnings.com/ResourcePackages/Custom/assets/css/main-inside.css?v=07012025)
+09:01:41	Error: 	"Not Found" (404) at link https://www.beginnings.com/personal/deposit-accounts/savings/d35cd211-049a-41e5-8211-5b72d9f7d4ba (from https://www.beginnings.com/personal/deposit-accounts/savings/savings-accounts-in-ithaca-new-york)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 31 seconds : 503 links scanned, 493 files written (664246546 bytes overall) [667249860 bytes received at 1305772 bytes/sec], 889284 bytes transferred using HTTP compression in 7 files, ratio 23%, 28.1 requests per connection
+(8 errors, 2 warnings, 0 messages)

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" viewBox="0 0 144.96 142.65">
+  <defs>
+    <style>
+      .st0 {
+        fill: #e1bbc8;
+      }
+
+      .st1 {
+        stroke: #424248;
+        stroke-miterlimit: 10;
+        stroke-width: 6.71px;
+      }
+
+      .st1, .st2 {
+        fill: none;
+      }
+
+      .st2 {
+        stroke: #290f87;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6.23px;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M67.07,80.67l3.22,29.37s43.58-2.27,47.75-1.14c0,0-2.08-24.63-4.74-25.2l-46.23-3.03Z" />
+  <path class="st1" d="M-750.89,72.49" />
+  <g>
+    <line class="st2" x1="8.85" y1="129.51" x2="8.85" y2="67.89" />
+    <line class="st2" x1="136.11" y1="68.33" x2="136.11" y2="129.51" />
+    <polyline class="st2" points="19.17 129.51 19.17 79.74 52.7 79.74 52.7 129.51" />
+    <rect class="st2" x="66.22" y="79.74" width="55.56" height="34.13" transform="translate(187.99 193.6) rotate(180)" />
+    <path class="st2" d="M9.29,18.31L3.58,56.61c0,7.62,6.17,13.79,13.78,13.79s13.78-6.17,13.78-13.79l4.08-38.3" />
+    <path class="st2" d="M60.33,18.31l-1.63,38.3c0,7.62-6.17,13.79-13.78,13.79h0c-7.61,0-13.78-6.17-13.78-13.79l4.08-38.3" />
+    <path class="st2" d="M84.63,18.31l1.63,38.3c0,7.62-6.17,13.79-13.78,13.79s-13.78-6.17-13.78-13.79l1.63-38.3" />
+    <path class="st2" d="M109.74,18.31l4.08,38.3c0,7.62-6.17,13.79-13.78,13.79s-13.79-6.17-13.79-13.79l-1.63-38.3" />
+    <path class="st2" d="M109.74,18.31l4.08,38.3c0,7.62,6.17,13.79,13.78,13.79s13.78-6.17,13.78-13.79l-5.71-38.3" />
+    <rect class="st2" x="9.29" y="3.12" width="126.37" height="15.2" />
+    <line class="st2" x1="4.83" y1="48.24" x2="140.13" y2="48.24" />
+    <rect class="st2" x="3.12" y="129.51" width="138.73" height="10.03" />
+  </g>
+  <metadata></metadata>
+</svg>

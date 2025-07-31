@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" viewBox="0 0 144.53 140.01">
+  <defs>
+    <style>
+      .st0 {
+        stroke: #424248;
+        stroke-miterlimit: 10;
+        stroke-width: 6.71px;
+      }
+
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: #f8a83a;
+      }
+
+      .st1 {
+        stroke-linecap: square;
+      }
+
+      .st1, .st2 {
+        stroke: #290f87;
+        stroke-linejoin: round;
+        stroke-width: 4.52px;
+      }
+
+      .st2 {
+        stroke-linecap: round;
+      }
+
+      .st4 {
+        fill: #290f87;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M-358.7,70.29" />
+  <g>
+    <path class="st3" d="M33.13,18.98l84.51-1.14s14.02,4.17,12.13,20.84l-4.93,15.92s14.4,6.44,13.64-15.54l2.27-32.97-3.79-3.41-3.73-.43L11.15,7.99s-5.68,1.89-5.31,13.64l1.14,29.56s-2,6.33,4.31,7.52l8.2.05-.38-21.98s3.03-20.84,14.02-17.81Z" />
+    <ellipse class="st2" cx="64.36" cy="71.13" rx="14.75" ry="10.06" transform="translate(-9.01 9.34) rotate(-7.76)" />
+    <path class="st4" d="M74.5,41.09c.25,1.83-1.56,3.62-4.04,4s-4.69-.8-4.94-2.63c-.25-1.83,1.56-3.62,4.04-4s4.69.8,4.94,2.63Z" />
+    <ellipse class="st4" cx="56.46" cy="100.49" rx="4.55" ry="3.35" transform="translate(-16.35 11.13) rotate(-9.85)" />
+    <polyline class="st2" points="30.37 40.65 6.77 137.75 90.33 137.75 113.93 40.65" />
+    <path class="st2" d="M44.55,40.65l-16.64,72.3c.11,0,.21-.03.32-.03,4.37,0,7.9,3.54,7.9,7.9,0,1.22-.3,2.36-.79,3.39h35.45c-.49-1.03-.79-2.17-.79-3.39,0-4.37,4.52-7.9,7.9-7.9,1.43,0,2.76.41,3.91,1.08l16.92-73.34" />
+    <path class="st1" d="M15.81,58.71h-4.52c-4.99,0-9.03-4.04-9.03-9.03V11.29C2.26,6.3,6.3,2.26,11.29,2.26h121.94c4.99,0,9.03,4.04,9.03,9.03v38.39c0,4.99-4.04,9.03-9.03,9.03h-13.55" />
+    <path class="st1" d="M20.32,38.39v-9.03c0-4.99,4.04-9.03,9.03-9.03h85.81c4.99,0,9.03,4.04,9.03,9.03v9.03" />
+  </g>
+  <metadata></metadata>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" viewBox="0 0 116.24 110.97">
+  <defs>
+    <style>
+      .st0 {
+        stroke: #290f87;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5.5px;
+      }
+
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        fill: #e1bbc8;
+      }
+
+      .st1 {
+        stroke: #424248;
+        stroke-miterlimit: 10;
+        stroke-width: 6.71px;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M-999.95,73.13" />
+  <g>
+    <path class="st2" d="M22.45,106.58l-16.75,1.27c-6.75,9.52-2.78-8.66-3.21-12.64l.13-20.46c-.43-3.98,2.97-6.02,6.95-6.44l27.01-5.67c3.98-.43,7.54,2.45,7.97,6.42l-2.52,37.52c.43,3.98-11.62,3.03-19.58,0Z" />
+    <polyline class="st0" points="47.24 28.13 47.24 47.24 2.75 47.24 2.75 2.75 30.43 2.75" />
+    <rect class="st0" x="2.75" y="63.72" width="44.5" height="44.5" />
+    <line class="st0" x1="13.3" y1="19.23" x2="26.81" y2="31.42" />
+    <line class="st0" x1="49.22" y1="4.07" x2="26.81" y2="31.42" />
+    <line class="st0" x1="63.72" y1="10.05" x2="113.49" y2="10.05" />
+    <line class="st0" x1="63.72" y1="24.39" x2="95.57" y2="24.39" />
+    <line class="st0" x1="63.72" y1="38.73" x2="79.65" y2="38.73" />
+    <line class="st0" x1="63.72" y1="71.63" x2="113.49" y2="71.63" />
+    <line class="st0" x1="63.72" y1="85.97" x2="95.57" y2="85.97" />
+    <line class="st0" x1="63.72" y1="100.31" x2="79.65" y2="100.31" />
+  </g>
+  <metadata></metadata>
+</svg>

@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id	s%3A0-d51a91ab-252b-5972-4609-035c38184485.scJt8ECppu411SNDtMp4xf82w4%2BBkNMOPsTkd09dEAQ
+srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id	s%3A0-d51a91ab-252b-5972-4609-035c38184485.scJt8ECppu411SNDtMp4xf82w4%2BBkNMOPsTkd09dEAQ
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id-v2	s%3A1RqRqyUrWXJGCQNcOBhEhY3vcxY.%2BoYZKMUjzL6f05%2F2AdScgVkfbE0Fyh4BBQCAeQ3N8B4
+srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id-v2	s%3A1RqRqyUrWXJGCQNcOBhEhY3vcxY.%2BoYZKMUjzL6f05%2F2AdScgVkfbE0Fyh4BBQCAeQ3N8B4
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id-v3	s%3AAQAKII3IIVLLd09nDFYC612C1d8nG5keB2obOTiQ5XzAxSzwEAEYAyCZo67EBjABOgTpX6eJQgQT4kbo.zTr942pQufkNhcLyBSsRV6GuzoC6zFtunoxcrC%2B7fzQ
+srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id-v3	s%3AAQAKII3IIVLLd09nDFYC612C1d8nG5keB2obOTiQ5XzAxSzwEAEYAyCZo67EBjABOgTpX6eJQgQT4kbo.zTr942pQufkNhcLyBSsRV6GuzoC6zFtunoxcrC%2B7fzQ
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	SameSite	None
+eresourcecenter.ascensus.com	TRUE	/	FALSE	1999999999	ASCENSUS_cookie	!m+oCByc/YGdFd/9/umStwMnknuP4ZQEjcTbZahGbh7q3EISaENGZU5w2nQx9n0DPOSdZtKa6P7wkpFJmc7i9+pqkIP0DrGJFdVmrpI9jAQ==
+.eresourcecenter.ascensus.com	TRUE	/	FALSE	1999999999	TS01aa4574	0163a0b0648b39c2b83b679d51927f1ea85d33d4cb12b867aad14b614d3dccd37a23b95fe816e80ada41389e760cb2818b0d3a3b33
+

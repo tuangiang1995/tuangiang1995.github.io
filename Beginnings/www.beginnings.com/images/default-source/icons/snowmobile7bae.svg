@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" viewBox="0 0 235.64 118.21">
+  <defs>
+    <style>
+      .st0 {
+        stroke: #290f87;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: #424248;
+        stroke-miterlimit: 10;
+        stroke-width: 6.71px;
+      }
+
+      .st2 {
+        fill: #00f5ff;
+      }
+    </style>
+  </defs>
+  <path class="st2" d="M161.91,92.07l3.28-41.18s1.52-7.07,6.06-8.59l13.39-1.26,41.68,24.25s2.78,16.42-5.05,22.99l-59.37,3.79Z" />
+  <path class="st1" d="M-685.04,82.63" />
+  <g>
+    <path class="st0" d="M58.57,57.18l4.73-17.77c1.33-5.07,6.37-8.2,11.46-7.12l55.43,11.59c7.89,1.65,16.1,1.14,23.74-1.54l13.58-4.76" />
+    <polyline class="st0" points="155.21 93.23 3 61.02 5.77 52.62 75.18 58.6 159.25 64.38" />
+    <path class="st0" d="M196.96,93.24h-41.77l5.06-37.01.98-7.21c1.07-7.81,6.29-13.5,12.39-13.5h11.2c2.03,0,4.04.64,5.84,1.87l30.87,21.01c5.92,4.03,7.83,13.85,4.1,21.06l-3.82,7.36c-2.08,4.02-5.57,6.43-9.3,6.43h-15.57" />
+    <line class="st0" x1="28.9" y1="115.2" x2="117.35" y2="115.2" />
+    <path class="st0" d="M175.09,115.2h35.22c5.68,0,11.24-1.62,16.04-4.68l6.29-4" />
+    <path class="st0" d="M188.66,63.02" />
+    <line class="st0" x1="204.87" y1="115.21" x2="197.45" y2="93.23" />
+    <polyline class="st0" points="173.89 33.91 157.13 3 144.62 10.06" />
+    <ellipse class="st0" cx="28.97" cy="101.02" rx="14.09" ry="14.18" />
+    <polyline class="st0" points="53.48 71.7 24.48 87.56 20.32 89.84" />
+    <ellipse class="st0" cx="117.4" cy="106.29" rx="8.86" ry="8.91" />
+    <line class="st0" x1="122.61" y1="99.09" x2="102.16" y2="82.01" />
+  </g>
+  <metadata></metadata>
+</svg>
